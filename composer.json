@@ -1,0 +1,21 @@
+{
+    "name": "bonggar/php-validation-strategy",
+    "description": "A PHP Library for validating form data. An implementation of Strategy Design Pattern",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Bonggar Situmorang",
+            "email": "bonggarsitumorang@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "bonggar\\PHPValidationStrategy\\": "src/"
+        }
+    }
+}
