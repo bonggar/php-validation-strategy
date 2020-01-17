@@ -5,7 +5,6 @@ A PHP Library for validating form data. An implementation of Strategy Design Pat
 ## Features
 
 * A Laravel like library
-* 
 
 ### Prerequisites
 
